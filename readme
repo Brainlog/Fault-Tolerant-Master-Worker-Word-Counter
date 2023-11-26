@@ -1,4 +1,4 @@
-#Cloud Computing : Streaming Computation
+# Cloud Computing : Streaming Computation
 1. In this assignment, workers are fault tolerant.
 2. Used Lua script to make operations atomic.
 3. Used Redis as Master
