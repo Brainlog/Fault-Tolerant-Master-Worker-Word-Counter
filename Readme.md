@@ -1,5 +1,5 @@
 # Cloud Computing : Streaming Computation
-1. In this assignment, workers are fault tolerant.
+1. In this assignment, workers are fault tolerant. There is one more version where the master is "also" fault tolerant. Check 
 2. Used Lua script to make operations atomic.
 3. Used Redis as Master
 To run the source code :
